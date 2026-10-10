@@ -1,0 +1,1454 @@
+{
+ "source": "Apple App Store Top Charts (official public RSS feed)",
+ "snapshot_ts": "2026-10-07T21:00:02.615Z",
+ "country": "us",
+ "chart": "top-free",
+ "rows": 100,
+ "data": [
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 1,
+   "appId": "6760173601",
+   "name": "Muse from Meta",
+   "artist": "Meta Platforms, Inc.",
+   "genres": [],
+   "releaseDate": "2026-09-08",
+   "url": "https://apps.apple.com/us/app/muse-from-meta/id6760173601"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 2,
+   "appId": "632064380",
+   "name": "Vinted: Pre-loved marketplace",
+   "artist": "Vinted Limited",
+   "genres": [],
+   "releaseDate": "2013-04-11",
+   "url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 3,
+   "appId": "6448311069",
+   "name": "ChatGPT",
+   "artist": "OpenAI OpCo, LLC",
+   "genres": [],
+   "releaseDate": "2023-05-18",
+   "url": "https://apps.apple.com/us/app/chatgpt/id6448311069"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 4,
+   "appId": "6670251421",
+   "name": "Quince: Luxury Essentials",
+   "artist": "Lastbrand Inc",
+   "genres": [],
+   "releaseDate": "2025-03-02",
+   "url": "https://apps.apple.com/us/app/quince-luxury-essentials/id6670251421"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 5,
+   "appId": "6741796873",
+   "name": "TikTok Pro - Events",
+   "artist": "TikTok Ltd.",
+   "genres": [],
+   "releaseDate": "2026-06-03",
+   "url": "https://apps.apple.com/us/app/tiktok-pro-events/id6741796873"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 6,
+   "appId": "6446901002",
+   "name": "Threads",
+   "artist": "Instagram, Inc.",
+   "genres": [],
+   "releaseDate": "2023-07-05",
+   "url": "https://apps.apple.com/us/app/threads/id6446901002"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 7,
+   "appId": "6477489729",
+   "name": "Google Gemini",
+   "artist": "Google",
+   "genres": [],
+   "releaseDate": "2024-11-13",
+   "url": "https://apps.apple.com/us/app/google-gemini/id6477489729"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 8,
+   "appId": "6473753684",
+   "name": "Claude by Anthropic",
+   "artist": "Anthropic PBC",
+   "genres": [],
+   "releaseDate": "2024-05-01",
+   "url": "https://apps.apple.com/us/app/claude-by-anthropic/id6473753684"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 9,
+   "appId": "922103212",
+   "name": "McDonald's",
+   "artist": "McDonald's USA",
+   "genres": [],
+   "releaseDate": "2014-10-25",
+   "url": "https://apps.apple.com/us/app/mcdonalds/id922103212"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 10,
+   "appId": "1500855883",
+   "name": "CapCut: Photo & Video Editor",
+   "artist": "Bytedance Pte. Ltd",
+   "genres": [],
+   "releaseDate": "2020-04-14",
+   "url": "https://apps.apple.com/us/app/capcut-photo-video-editor/id1500855883"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 11,
+   "appId": "6754134922",
+   "name": "PineDrama - Short Dramas",
+   "artist": "TikTok Ltd.",
+   "genres": [
+    "Entertainment"
+   ],
+   "releaseDate": "2025-12-23",
+   "url": "https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 12,
+   "appId": "6767364919",
+   "name": "Trump Accounts: Official App",
+   "artist": "U.S. Department of the Treasury",
+   "genres": [
+    "Finance"
+   ],
+   "releaseDate": "2026-05-27",
+   "url": "https://apps.apple.com/us/app/trump-accounts-official-app/id6767364919"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 13,
+   "appId": "310633997",
+   "name": "WhatsApp Messenger",
+   "artist": "WhatsApp Inc.",
+   "genres": [
+    "Social Networking",
+    "Utilities"
+   ],
+   "releaseDate": "2009-05-04",
+   "url": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 14,
+   "appId": "284815942",
+   "name": "Google",
+   "artist": "Google",
+   "genres": [
+    "Utilities",
+    "Reference"
+   ],
+   "releaseDate": "2019-02-12",
+   "url": "https://apps.apple.com/us/app/google/id284815942"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 15,
+   "appId": "422689480",
+   "name": "Gmail - Email by Google",
+   "artist": "Google",
+   "genres": [
+    "Productivity",
+    "Social Networking"
+   ],
+   "releaseDate": "2011-11-02",
+   "url": "https://apps.apple.com/us/app/gmail-email-by-google/id422689480"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 16,
+   "appId": "835599320",
+   "name": "TikTok - Videos, Shop & LIVE",
+   "artist": "TikTok Ltd.",
+   "genres": [
+    "Entertainment",
+    "Photo & Video"
+   ],
+   "releaseDate": "2014-04-02",
+   "url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 17,
+   "appId": "1632713844",
+   "name": "Kalshi: Trade Football & more",
+   "artist": "KalshiEX LLC",
+   "genres": [
+    "Finance",
+    "Sports"
+   ],
+   "releaseDate": "2022-09-16",
+   "url": "https://apps.apple.com/us/app/kalshi-trade-football-more/id1632713844"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 18,
+   "appId": "1630403500",
+   "name": "APTV",
+   "artist": "Suzhou Xiying Guangnian Technology Co., Ltd",
+   "genres": [
+    "Utilities",
+    "Entertainment"
+   ],
+   "releaseDate": "2022-07-07",
+   "url": "https://apps.apple.com/us/app/aptv/id1630403500"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 19,
+   "appId": "585027354",
+   "name": "Google Maps",
+   "artist": "Google",
+   "genres": [
+    "Navigation",
+    "Food & Drink"
+   ],
+   "releaseDate": "2012-12-13",
+   "url": "https://apps.apple.com/us/app/google-maps/id585027354"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 20,
+   "appId": "1113153706",
+   "name": "Microsoft Teams",
+   "artist": "Microsoft Corporation",
+   "genres": [
+    "Business",
+    "Productivity"
+   ],
+   "releaseDate": "2016-11-02",
+   "url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 21,
+   "appId": "983156458",
+   "name": "Microsoft Authenticator",
+   "artist": "Microsoft Corporation",
+   "genres": [
+    "Productivity",
+    "Utilities"
+   ],
+   "releaseDate": "2015-05-30",
+   "url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 22,
+   "appId": "389801252",
+   "name": "Instagram",
+   "artist": "Instagram, Inc.",
+   "genres": [
+    "Photo & Video",
+    "Social Networking"
+   ],
+   "releaseDate": "2010-10-06",
+   "url": "https://apps.apple.com/us/app/instagram/id389801252"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 23,
+   "appId": "284882215",
+   "name": "Facebook",
+   "artist": "Meta Platforms, Inc.",
+   "genres": [
+    "Social Networking"
+   ],
+   "releaseDate": "2019-02-05",
+   "url": "https://apps.apple.com/us/app/facebook/id284882215"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 24,
+   "appId": "518684914",
+   "name": "Depop - Buy & Sell Clothes",
+   "artist": "Depop Ltd",
+   "genres": [
+    "Shopping",
+    "Lifestyle"
+   ],
+   "releaseDate": "2012-08-01",
+   "url": "https://apps.apple.com/us/app/depop-buy-sell-clothes/id518684914"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 25,
+   "appId": "544007664",
+   "name": "YouTube",
+   "artist": "Google",
+   "genres": [
+    "Photo & Video",
+    "Entertainment"
+   ],
+   "releaseDate": "2012-09-11",
+   "url": "https://apps.apple.com/us/app/youtube/id544007664"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 26,
+   "appId": "6472232952",
+   "name": "Koupon: Real Deals & Codes",
+   "artist": "Koupon Inc.",
+   "genres": [
+    "Shopping"
+   ],
+   "releaseDate": "2023-11-29",
+   "url": "https://apps.apple.com/us/app/koupon-real-deals-codes/id6472232952"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 27,
+   "appId": "686449807",
+   "name": "Telegram Messenger",
+   "artist": "Telegram FZ-LLC",
+   "genres": [
+    "Social Networking",
+    "Productivity"
+   ],
+   "releaseDate": "2013-08-14",
+   "url": "https://apps.apple.com/us/app/telegram-messenger/id686449807"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 28,
+   "appId": "1223471316",
+   "name": "Shop: Track, Pay, Discover",
+   "artist": "Shopify Inc.",
+   "genres": [
+    "Shopping",
+    "Utilities"
+   ],
+   "releaseDate": "2017-11-16",
+   "url": "https://apps.apple.com/us/app/shop-track-pay-discover/id1223471316"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 29,
+   "appId": "297606951",
+   "name": "Amazon Shopping",
+   "artist": "AMZN Mobile LLC",
+   "genres": [
+    "Shopping",
+    "Lifestyle"
+   ],
+   "releaseDate": "2008-12-03",
+   "url": "https://apps.apple.com/us/app/amazon-shopping/id297606951"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 30,
+   "appId": "1641486558",
+   "name": "Temu: Shop Like a Billionaire",
+   "artist": "Temu",
+   "genres": [
+    "Shopping"
+   ],
+   "releaseDate": "2022-08-31",
+   "url": "https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 31,
+   "appId": "541164041",
+   "name": "Microsoft Copilot",
+   "artist": "Microsoft Corporation",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "releaseDate": "2013-06-14",
+   "url": "https://apps.apple.com/us/app/microsoft-copilot/id541164041"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 32,
+   "appId": "535886823",
+   "name": "Google Chrome",
+   "artist": "Google",
+   "genres": [
+    "Utilities",
+    "Productivity"
+   ],
+   "releaseDate": "2012-06-28",
+   "url": "https://apps.apple.com/us/app/google-chrome/id535886823"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 33,
+   "appId": "338137227",
+   "name": "Walmart: Shopping & Savings",
+   "artist": "Walmart",
+   "genres": [
+    "Shopping",
+    "Lifestyle"
+   ],
+   "releaseDate": "2009-11-02",
+   "url": "https://apps.apple.com/us/app/walmart-shopping-savings/id338137227"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 34,
+   "appId": "333903271",
+   "name": "X",
+   "artist": "X Corp.",
+   "genres": [
+    "News",
+    "Social Networking"
+   ],
+   "releaseDate": "2009-10-09",
+   "url": "https://apps.apple.com/us/app/x/id333903271"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 35,
+   "appId": "407558537",
+   "name": "Capital One Mobile",
+   "artist": "Capital One",
+   "genres": [
+    "Finance"
+   ],
+   "releaseDate": "2010-12-13",
+   "url": "https://apps.apple.com/us/app/capital-one-mobile/id407558537"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 36,
+   "appId": "6745274862",
+   "name": "DealSeek: Coupons & Discounts",
+   "artist": "DealSeek LLC",
+   "genres": [
+    "Shopping"
+   ],
+   "releaseDate": "2025-06-19",
+   "url": "https://apps.apple.com/us/app/dealseek-coupons-discounts/id6745274862"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 37,
+   "appId": "6670324846",
+   "name": "Grok AI",
+   "artist": "X Corp.",
+   "genres": [
+    "Productivity",
+    "Utilities"
+   ],
+   "releaseDate": "2025-01-08",
+   "url": "https://apps.apple.com/us/app/grok-ai/id6670324846"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 38,
+   "appId": "6768593043",
+   "name": "BlinkDrama - Short Dramas",
+   "artist": "Atlas Ventures Culture & Technology Limited",
+   "genres": [
+    "Entertainment"
+   ],
+   "releaseDate": "2026-05-29",
+   "url": "https://apps.apple.com/us/app/blinkdrama-short-dramas/id6768593043"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 39,
+   "appId": "283646709",
+   "name": "PayPal - Pay, Send, Save",
+   "artist": "PayPal, Inc.",
+   "genres": [
+    "Finance",
+    "Utilities"
+   ],
+   "releaseDate": "2019-02-03",
+   "url": "https://apps.apple.com/us/app/paypal-pay-send-save/id283646709"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 40,
+   "appId": "324684580",
+   "name": "Spotify: Music and Podcasts",
+   "artist": "Spotify",
+   "genres": [
+    "Music",
+    "Entertainment"
+   ],
+   "releaseDate": "2011-07-14",
+   "url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 41,
+   "appId": "309735670",
+   "name": "Indeed Job Search",
+   "artist": "Indeed Inc.",
+   "genres": [
+    "Business",
+    "Utilities"
+   ],
+   "releaseDate": "2009-06-08",
+   "url": "https://apps.apple.com/us/app/indeed-job-search/id309735670"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 42,
+   "appId": "429047995",
+   "name": "Pinterest",
+   "artist": "Pinterest, Inc.",
+   "genres": [
+    "Lifestyle",
+    "Photo & Video"
+   ],
+   "releaseDate": "2011-04-28",
+   "url": "https://apps.apple.com/us/app/pinterest/id429047995"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 43,
+   "appId": "368677368",
+   "name": "Uber - Rides, Eats, Hotels",
+   "artist": "Uber Technologies, Inc.",
+   "genres": [
+    "Travel",
+    "Lifestyle"
+   ],
+   "releaseDate": "2010-05-21",
+   "url": "https://apps.apple.com/us/app/uber-rides-eats-hotels/id368677368"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 44,
+   "appId": "1488269261",
+   "name": "Whatnot: Shop, Sell, Connect",
+   "artist": "Whatnot Inc.",
+   "genres": [
+    "Shopping",
+    "Lifestyle"
+   ],
+   "releaseDate": "2019-12-06",
+   "url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 45,
+   "appId": "351727428",
+   "name": "Venmo",
+   "artist": "Venmo",
+   "genres": [
+    "Finance",
+    "Utilities"
+   ],
+   "releaseDate": "2010-04-03",
+   "url": "https://apps.apple.com/us/app/venmo/id351727428"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 46,
+   "appId": "447188370",
+   "name": "Snapchat",
+   "artist": "Snap, Inc.",
+   "genres": [
+    "Photo & Video",
+    "Social Networking"
+   ],
+   "releaseDate": "2011-07-13",
+   "url": "https://apps.apple.com/us/app/snapchat/id447188370"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 47,
+   "appId": "382952264",
+   "name": "MyChart",
+   "artist": "Epic",
+   "genres": [
+    "Medical"
+   ],
+   "releaseDate": "2010-09-14",
+   "url": "https://apps.apple.com/us/app/mychart/id382952264"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 48,
+   "appId": "1673567402",
+   "name": "Freecash - Get Paid Real Money",
+   "artist": "Freecash - Get Paid Real Money",
+   "genres": [
+    "Entertainment",
+    "Finance"
+   ],
+   "releaseDate": "2024-04-01",
+   "url": "https://apps.apple.com/us/app/freecash-get-paid-real-money/id1673567402"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 49,
+   "appId": "711923939",
+   "name": "Cash App",
+   "artist": "Block, Inc.",
+   "genres": [
+    "Finance",
+    "Business"
+   ],
+   "releaseDate": "2013-10-16",
+   "url": "https://apps.apple.com/us/app/cash-app/id711923939"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 50,
+   "appId": "1631584032",
+   "name": "PLAYFUL REWARDS: Earn Rewards",
+   "artist": "Playful Rewards",
+   "genres": [
+    "Entertainment",
+    "Lifestyle"
+   ],
+   "releaseDate": "2023-09-26",
+   "url": "https://apps.apple.com/us/app/playful-rewards-earn-rewards/id1631584032"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 51,
+   "appId": "842842640",
+   "name": "Google Docs",
+   "artist": "Google",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "releaseDate": "2014-04-30",
+   "url": "https://apps.apple.com/us/app/google-docs/id842842640"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 52,
+   "appId": "507874739",
+   "name": "Google Drive",
+   "artist": "Google",
+   "genres": [
+    "Productivity"
+   ],
+   "releaseDate": "2012-06-28",
+   "url": "https://apps.apple.com/us/app/google-drive/id507874739"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 53,
+   "appId": "546505307",
+   "name": "Zoom Workplace",
+   "artist": "Zoom Communications, Inc.",
+   "genres": [
+    "Business",
+    "Productivity"
+   ],
+   "releaseDate": "2012-08-15",
+   "url": "https://apps.apple.com/us/app/zoom-workplace/id546505307"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 54,
+   "appId": "6738332678",
+   "name": "GlobeRoam: GPS Camera Map",
+   "artist": "FIVE OCEANS",
+   "genres": [
+    "Travel",
+    "Utilities"
+   ],
+   "releaseDate": "2024-11-20",
+   "url": "https://apps.apple.com/us/app/globeroam-gps-camera-map/id6738332678"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 55,
+   "appId": "719972451",
+   "name": "DoorDash: Food, Grocery, More",
+   "artist": "DoorDash, Inc.",
+   "genres": [
+    "Food & Drink",
+    "Lifestyle"
+   ],
+   "releaseDate": "2013-10-10",
+   "url": "https://apps.apple.com/us/app/doordash-food-grocery-more/id719972451"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 56,
+   "appId": "1111876388",
+   "name": "T-Life",
+   "artist": "T-Mobile",
+   "genres": [
+    "Lifestyle",
+    "Utilities"
+   ],
+   "releaseDate": "2016-06-06",
+   "url": "https://apps.apple.com/us/app/t-life/id1111876388"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 57,
+   "appId": "500003565",
+   "name": "Ticketmaster－Buy, Sell Tickets",
+   "artist": "Ticketmaster",
+   "genres": [
+    "Entertainment",
+    "Music"
+   ],
+   "releaseDate": "2012-02-23",
+   "url": "https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 58,
+   "appId": "951937596",
+   "name": "Microsoft Outlook",
+   "artist": "Microsoft Corporation",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "releaseDate": "2015-01-29",
+   "url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 59,
+   "appId": "384830320",
+   "name": "Life360: Family Safety & GPS",
+   "artist": "Life360",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "releaseDate": "2010-08-10",
+   "url": "https://apps.apple.com/us/app/life360-family-safety-gps/id384830320"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 60,
+   "appId": "288429040",
+   "name": "LinkedIn: Community & Network",
+   "artist": "LinkedIn Corporation",
+   "genres": [
+    "Business"
+   ],
+   "releaseDate": "2019-02-03",
+   "url": "https://apps.apple.com/us/app/linkedin-community-network/id288429040"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 61,
+   "appId": "6761538521",
+   "name": "StoryReel: Drama Shorts & TV",
+   "artist": "Equinox Enterprises‌ Technology Limited",
+   "genres": [
+    "Entertainment"
+   ],
+   "releaseDate": "2026-04-08",
+   "url": "https://apps.apple.com/us/app/storyreel-drama-shorts-tv/id6761538521"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 62,
+   "appId": "985746746",
+   "name": "Discord - Talk, Play, Hang Out",
+   "artist": "Discord Inc.",
+   "genres": [
+    "Social Networking",
+    "Games"
+   ],
+   "releaseDate": "2015-05-21",
+   "url": "https://apps.apple.com/us/app/discord-talk-play-hang-out/id985746746"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 63,
+   "appId": "897446215",
+   "name": "Canva AI Photo & Video Editor",
+   "artist": "Canva",
+   "genres": [
+    "Photo & Video",
+    "Productivity"
+   ],
+   "releaseDate": "2014-10-15",
+   "url": "https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 64,
+   "appId": "6787098655",
+   "name": "EarthScope: GPS Map Camera",
+   "artist": "EINMOB LIMITED",
+   "genres": [
+    "Navigation"
+   ],
+   "releaseDate": "2026-07-08",
+   "url": "https://apps.apple.com/us/app/earthscope-gps-map-camera/id6787098655"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 65,
+   "appId": "388497605",
+   "name": "Google Authenticator",
+   "artist": "Google",
+   "genres": [
+    "Utilities"
+   ],
+   "releaseDate": "2010-09-20",
+   "url": "https://apps.apple.com/us/app/google-authenticator/id388497605"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 66,
+   "appId": "6504849169",
+   "name": "NetShort - Popular Dramas & TV",
+   "artist": "NETSTORY PTE. LTD.",
+   "genres": [
+    "Entertainment"
+   ],
+   "releaseDate": "2024-07-12",
+   "url": "https://apps.apple.com/us/app/netshort-popular-dramas-tv/id6504849169"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 67,
+   "appId": "6738967378",
+   "name": "Edits: Video Editor",
+   "artist": "Instagram, Inc.",
+   "genres": [
+    "Photo & Video",
+    "Productivity"
+   ],
+   "releaseDate": "2025-04-22",
+   "url": "https://apps.apple.com/us/app/edits-video-editor/id6738967378"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 68,
+   "appId": "545519333",
+   "name": "Amazon Prime Video",
+   "artist": "AMZN Mobile LLC",
+   "genres": [
+    "Entertainment",
+    "Lifestyle"
+   ],
+   "releaseDate": "2012-07-31",
+   "url": "https://apps.apple.com/us/app/amazon-prime-video/id545519333"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 69,
+   "appId": "6745820631",
+   "name": "Shots: Photo & Video Generator",
+   "artist": "DeePix AI",
+   "genres": [
+    "Photo & Video",
+    "Graphics & Design"
+   ],
+   "releaseDate": "2025-06-04",
+   "url": "https://apps.apple.com/us/app/shots-photo-video-generator/id6745820631"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 70,
+   "appId": "297430070",
+   "name": "Target: Shop. Style. Save.",
+   "artist": "Target",
+   "genres": [
+    "Shopping",
+    "Lifestyle"
+   ],
+   "releaseDate": "2008-11-25",
+   "url": "https://apps.apple.com/us/app/target-shop-style-save/id297430070"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 71,
+   "appId": "6762023973",
+   "name": "7 Brew Coffee",
+   "artist": "Brew Culture, LLC",
+   "genres": [
+    "Food & Drink"
+   ],
+   "releaseDate": "2026-08-11",
+   "url": "https://apps.apple.com/us/app/7-brew-coffee/id6762023973"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 72,
+   "appId": "878577184",
+   "name": "SHEIN - Shopping Online",
+   "artist": "ROADGET BUSINESS PTE. LTD.",
+   "genres": [
+    "Shopping"
+   ],
+   "releaseDate": "2014-05-20",
+   "url": "https://apps.apple.com/us/app/shein-shopping-online/id878577184"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 73,
+   "appId": "6751921248",
+   "name": "Rips by Triumph",
+   "artist": "Triumph Arcade",
+   "genres": [
+    "Shopping"
+   ],
+   "releaseDate": "2025-10-22",
+   "url": "https://apps.apple.com/us/app/rips-by-triumph/id6751921248"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 74,
+   "appId": "401626263",
+   "name": "Airbnb",
+   "artist": "Airbnb, Inc.",
+   "genres": [
+    "Travel",
+    "Lifestyle"
+   ],
+   "releaseDate": "2010-11-10",
+   "url": "https://apps.apple.com/us/app/airbnb/id401626263"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 75,
+   "appId": "490179405",
+   "name": "Okta Verify",
+   "artist": "Okta, Inc.",
+   "genres": [
+    "Business",
+    "Productivity"
+   ],
+   "releaseDate": "2012-01-06",
+   "url": "https://apps.apple.com/us/app/okta-verify/id490179405"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 76,
+   "appId": "842849113",
+   "name": "Google Sheets",
+   "artist": "Google",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "releaseDate": "2014-04-30",
+   "url": "https://apps.apple.com/us/app/google-sheets/id842849113"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 77,
+   "appId": "444553167",
+   "name": "ADP Mobile Solutions",
+   "artist": "ADP, Inc",
+   "genres": [
+    "Business",
+    "Finance"
+   ],
+   "releaseDate": "2011-07-13",
+   "url": "https://apps.apple.com/us/app/adp-mobile-solutions/id444553167"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 78,
+   "appId": "570060128",
+   "name": "Duolingo: Language Lessons",
+   "artist": "Duolingo",
+   "genres": [
+    "Education",
+    "Social Networking"
+   ],
+   "releaseDate": "2012-11-13",
+   "url": "https://apps.apple.com/us/app/duolingo-language-lessons/id570060128"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 79,
+   "appId": "497387361",
+   "name": "Taco Bell Fast Food & Delivery",
+   "artist": "Taco Bell",
+   "genres": [
+    "Food & Drink",
+    "Lifestyle"
+   ],
+   "releaseDate": "2012-01-26",
+   "url": "https://apps.apple.com/us/app/taco-bell-fast-food-delivery/id497387361"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 80,
+   "appId": "298867247",
+   "name": "Chase Mobile®: Bank & Invest",
+   "artist": "JPMorgan Chase & Co.",
+   "genres": [
+    "Finance",
+    "Productivity"
+   ],
+   "releaseDate": "2008-12-15",
+   "url": "https://apps.apple.com/us/app/chase-mobile-bank-invest/id298867247"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 81,
+   "appId": "436672029",
+   "name": "AliExpress - Shopping App",
+   "artist": "Alibaba",
+   "genres": [
+    "Shopping",
+    "Lifestyle"
+   ],
+   "releaseDate": "2011-05-27",
+   "url": "https://apps.apple.com/us/app/aliexpress-shopping-app/id436672029"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 82,
+   "appId": "363590051",
+   "name": "Netflix",
+   "artist": "Netflix, Inc.",
+   "genres": [
+    "Entertainment",
+    "Lifestyle"
+   ],
+   "releaseDate": "2010-04-01",
+   "url": "https://apps.apple.com/us/app/netflix/id363590051"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 83,
+   "appId": "6447582581",
+   "name": "Netflix Game Controller",
+   "artist": "Netflix, Inc.",
+   "genres": [
+    "Entertainment",
+    "Games"
+   ],
+   "releaseDate": "2023-08-07",
+   "url": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 84,
+   "appId": "535509415",
+   "name": "Costco",
+   "artist": "Costco Wholesale Corporation",
+   "genres": [
+    "Shopping",
+    "Lifestyle"
+   ],
+   "releaseDate": "2012-07-06",
+   "url": "https://apps.apple.com/us/app/costco/id535509415"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 85,
+   "appId": "1510944943",
+   "name": "Cleanup: Phone Storage Cleaner",
+   "artist": "DEEP FLOW SOFTWARE SERVICES",
+   "genres": [
+    "Utilities",
+    "Photo & Video"
+   ],
+   "releaseDate": "2020-12-05",
+   "url": "https://apps.apple.com/us/app/cleanup-phone-storage-cleaner/id1510944943"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 86,
+   "appId": "962194608",
+   "name": "Google Photos: Backup & Edit",
+   "artist": "Google",
+   "genres": [
+    "Photo & Video"
+   ],
+   "releaseDate": "2015-05-28",
+   "url": "https://apps.apple.com/us/app/google-photos-backup-edit/id962194608"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 87,
+   "appId": "529379082",
+   "name": "Lyft",
+   "artist": "Lyft, Inc.",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "releaseDate": "2012-05-31",
+   "url": "https://apps.apple.com/us/app/lyft/id529379082"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 88,
+   "appId": "6445905219",
+   "name": "DramaBox - Stream Drama Shorts",
+   "artist": "STORYMATRIX PTE. LTD.",
+   "genres": [
+    "Entertainment"
+   ],
+   "releaseDate": "2023-04-18",
+   "url": "https://apps.apple.com/us/app/dramabox-stream-drama-shorts/id6445905219"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 89,
+   "appId": "586447913",
+   "name": "Microsoft Word",
+   "artist": "Microsoft Corporation",
+   "genres": [
+    "Productivity"
+   ],
+   "releaseDate": "2014-03-27",
+   "url": "https://apps.apple.com/us/app/microsoft-word/id586447913"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 90,
+   "appId": "454638411",
+   "name": "Messenger",
+   "artist": "Meta Platforms, Inc.",
+   "genres": [
+    "Social Networking",
+    "Productivity"
+   ],
+   "releaseDate": "2011-08-09",
+   "url": "https://apps.apple.com/us/app/messenger/id454638411"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 91,
+   "appId": "1446075923",
+   "name": "Disney+",
+   "artist": "Disney",
+   "genres": [
+    "Entertainment"
+   ],
+   "releaseDate": "2019-11-11",
+   "url": "https://apps.apple.com/us/app/disney/id1446075923"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 92,
+   "appId": "1370293473",
+   "name": "VPN - Super Unlimited Proxy",
+   "artist": "Mobile Jump Pte Ltd",
+   "genres": [
+    "Productivity",
+    "Utilities"
+   ],
+   "releaseDate": "2018-05-15",
+   "url": "https://apps.apple.com/us/app/vpn-super-unlimited-proxy/id1370293473"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 93,
+   "appId": "6794501026",
+   "name": "Grok Bot",
+   "artist": "X Corp.",
+   "genres": [
+    "Productivity"
+   ],
+   "releaseDate": "2026-08-11",
+   "url": "https://apps.apple.com/us/app/grok-bot/id6794501026"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 94,
+   "appId": "1089294040",
+   "name": "Capital One Shopping: Save Now",
+   "artist": "Wikibuy, LLC",
+   "genres": [
+    "Shopping",
+    "Lifestyle"
+   ],
+   "releaseDate": "2016-09-04",
+   "url": "https://apps.apple.com/us/app/capital-one-shopping-save-now/id1089294040"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 95,
+   "appId": "282614216",
+   "name": "eBay online shopping & selling",
+   "artist": "eBay Inc.",
+   "genres": [
+    "Shopping",
+    "Lifestyle"
+   ],
+   "releaseDate": "2019-01-31",
+   "url": "https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 96,
+   "appId": "6670430706",
+   "name": "DramaWave - Dramas & Reels",
+   "artist": "SKYWORK AI PTE LTD",
+   "genres": [
+    "Entertainment"
+   ],
+   "releaseDate": "2024-09-23",
+   "url": "https://apps.apple.com/us/app/dramawave-dramas-reels/id6670430706"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 97,
+   "appId": "1494523953",
+   "name": "OnePay – Mobile Banking",
+   "artist": "One Finance, Inc.",
+   "genres": [
+    "Finance"
+   ],
+   "releaseDate": "2020-03-25",
+   "url": "https://apps.apple.com/us/app/onepay-mobile-banking/id1494523953"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 98,
+   "appId": "836215269",
+   "name": "Chime® – Mobile Banking",
+   "artist": "Chime Financial, Inc.",
+   "genres": [
+    "Finance",
+    "Lifestyle"
+   ],
+   "releaseDate": "2014-03-16",
+   "url": "https://apps.apple.com/us/app/chime-mobile-banking/id836215269"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 99,
+   "appId": "886445756",
+   "name": "Tubi: Movies & Live TV",
+   "artist": "Tubi, Inc",
+   "genres": [
+    "Entertainment",
+    "Lifestyle"
+   ],
+   "releaseDate": "2014-07-24",
+   "url": "https://apps.apple.com/us/app/tubi-movies-live-tv/id886445756"
+  },
+  {
+   "ts": "2026-10-07T21:00:02.615Z",
+   "country": "us",
+   "chart": "top-free",
+   "rank": 100,
+   "appId": "6746049430",
+   "name": "FOX One: Live News, Sports, TV",
+   "artist": "Fox Digital Services, LLC",
+   "genres": [
+    "Entertainment",
+    "News"
+   ],
+   "releaseDate": "2025-08-20",
+   "url": "https://apps.apple.com/us/app/fox-one-live-news-sports-tv/id6746049430"
+  }
+ ]
+}
